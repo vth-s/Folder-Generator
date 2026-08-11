@@ -10,6 +10,7 @@ const FOLDER_STRUCTURE: Array[String] = [
 	"assets/textures",
 	"assets/audio",
 	"assets/fonts",
+	"scripts",
 	"components",
 	"scenes",
 	"scenes/levels",
